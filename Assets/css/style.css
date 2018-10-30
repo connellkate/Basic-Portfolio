@@ -1,0 +1,69 @@
+/*HEADER*/
+
+body {
+text-align: center; 
+
+
+}
+.your-name {
+  
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+float: left;
+width: 250px;
+background-color: #4aaaa5;
+position:
+}
+
+
+/*LINK SECTION*/
+.link {
+color: #777777;
+font-family: Arial, Helvetica, sans-serif;
+width:  960px;
+float: right;
+position:
+background-color: #ffffff;
+}
+
+/*ABOUT ME*/
+.wrapper {
+    text-align: left;
+    float: left;
+    width: 960px;
+}
+
+.about-me {
+margin-top: 100px;
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+color: #4aaaa5;
+background-color: #ffffff;
+}
+
+/*PARAGRAPH*/
+.paragraph {
+width: 960px;
+font-family: Arial, Helvetica, sans-serif;
+color: #777777;
+background-color: #ffffff;
+position: 
+
+}
+
+
+
+
+
+
+
+/*END OF PAGE*/
+.footer {
+background-color: #666666;
+width: 960px
+
+
+
+
+}
