@@ -52,15 +52,13 @@ li a:hover {
 }
 
 
-
-/*ABOUT ME*/
-
 hr {
-    margin-left: 1em;
+    margin-left: 6em;
     margin-right: 1em;
 }
 
 .box {
+    color: #666666;
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
@@ -69,7 +67,43 @@ hr {
     width: 960px;
     background-color: #ffffff;
     box-sizing: border-box;
+    overflow: hidden;
+    padding: 30px;
 }
+
+
+
+
+
+#picture1{
+
+float: left;
+
+
+}
+
+#picture2{
+float: left;
+;
+}
+
+#picture3{
+
+float: left;
+}
+
+#picture4{
+float: left;
+}
+
+#picture5{
+float: left;
+
+
+
+}
+
+
 
 .about-me {
 
@@ -84,21 +118,11 @@ hr {
 
 }
 
-/*PICTURE*/
-#picture {
-    float: left;
-    padding: 15px 15px 15px;
-    box-sizing: border-box;
-}
-
-
-
-/*PARAGRAPH*/
 .paragraph {
     width: 960px;
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
-    /* background-color: #ffffff; */
+    background-color: #ffffff;
     margin-left: auto;
     margin-right: auto;
     overflow: hidden;
@@ -108,8 +132,9 @@ hr {
 
 /*END OF PAGE*/
 .footer {
-    border-top: 7px solid #4aaaa5;
+
     background-color: #666666;
+    border-top: #4aaaa5 7px solid;
     position: fixed;
     width: 100%;
     height: 60px;
