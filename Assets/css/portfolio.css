@@ -1,7 +1,8 @@
 /*HEADER*/
 
 body {
-    background-image: url("../images/leaves.png")
+    background-image: url("../images/leaves.png");
+    margin: 0px;
 }
 
 .wrapper {
